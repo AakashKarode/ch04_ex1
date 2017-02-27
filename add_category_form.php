@@ -29,9 +29,7 @@ $statement->closeCursor();
             <label>Category:</label>
             <input type="text" name="category"><br>
 
-            
-
-            
+                      
 
             <label>&nbsp;</label>
             <input type="submit" value="Add Category"><br>
